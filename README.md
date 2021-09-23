@@ -5,7 +5,8 @@ MERN stack notes
 | Link | Description |
 | ------ | ------ |
 |  https://www.npmjs.com/package/concurrently | To run multiple npm commands on single call - https://youtu.be/1REonFsWBbY  |
-
+|  https://www.npmjs.com/package/http-errors | http errors |
+|  https://www.npmjs.com/package/http-errors-enhanced | http errors enhanced|
 
 ### MERN Video tutorials
 | Link | Description |
